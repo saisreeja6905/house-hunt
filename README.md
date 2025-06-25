@@ -35,10 +35,10 @@
 
 |      Name        |    Role    |
 |----------------- |------------|
-| P Kranthi Kumar  | Team Lead  |
-| A Navya Sai      | Member     |
-| J Koushika Sai   | Member     |
-| Shaik Sammer     | Member     |
+| C Sai Sreeja     | Team Lead  |
+| B Sivani         | Member     |
+| R Vyshnavi       | Member     |
+| G Jamuna         | Member     |
 
 ---
 
