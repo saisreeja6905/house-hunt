@@ -53,7 +53,7 @@
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/Koushika1504/HouseHunting-AP.git
+git clone https://github.com/saisreeja6905/house-hunt.git
 
 npm install
 
