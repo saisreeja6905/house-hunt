@@ -22,13 +22,13 @@
   - Remove house owners or renters if needed
 
 
-![screenshot1](https://github.com/user-attachments/assets/da5c0629-0087-4f38-ba1a-1940127a42c2)
-![screenshot2](https://github.com/user-attachments/assets/1841386f-242d-4c21-ac54-15c620f7adf6)
-![screenshot3](https://github.com/user-attachments/assets/b1026b9a-c348-42db-bcdc-c648df7bcb66)
-![screenshot4](https://github.com/user-attachments/assets/78a61545-7bb5-4f04-bbb1-400e9025516c)
-![screenshot5](https://github.com/user-attachments/assets/a968f19d-f673-49c9-8609-1deefd1eb46b)
+---![Screenshot 2025-06-25 135427](https://github.com/user-attachments/assets/9e62aa11-6b81-48bf-882f-1e7d0950fde7)
+![Screenshot 2025-06-25 135630](https://github.com/user-attachments/assets/0b5ae228-7b4a-4f6d-89fd-cc3610fdad67)
 
----
+![Screenshot 2025-06-25 135712](https://github.com/user-attachments/assets/8e60deee-ac14-4436-a3ef-939332d1e04b)
+![Screenshot 2025-06-25 160254](https://github.com/user-attachments/assets/0d6b5d6c-26d1-49f1-ad42-6bad9bf52cfe)
+![Screenshot 2025-06-25 160449](https://github.com/user-attachments/assets/bbeb94d4-e1d3-4526-bcaa-0315365bf59c)
+
 
 ## 🛠️ Tech Stack
 
@@ -42,10 +42,10 @@
 
 |      Name        |    Role    |
 |----------------- |------------|
-| C Sai Sreeja     | Team Lead  |
-| B Sivani         | Member     |
-| R Vyshnavi       | Member     |
-| G Jamuna         | Member     |
+| P Kranthi Kumar  | Team Lead  |
+| A Navya Sai      | Member     |
+| J Koushika Sai   | Member     |
+| Shaik Sammer     | Member     |
 
 ---
 
@@ -53,11 +53,12 @@
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/saisreeja6905/house-hunt.git
+git clone https://github.com/Koushika1504/HouseHunting-AP.git
 
 npm install
 
 npm run dev
 
 http://localhost:5173
+
 
